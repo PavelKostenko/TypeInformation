@@ -126,4 +126,4 @@ public class RegisteredFactories {
             System.out.println(Part.createRandom());
         }
     }
-}
+} hello
